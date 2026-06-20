@@ -1,0 +1,4 @@
+# Ignore Arduino build artifacts and local configuration files
+build/
+*.tmp
+*.bak
